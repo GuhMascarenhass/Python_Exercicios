@@ -1,2 +1,2 @@
 # Python_Exercicios
- Básico Python
+ Os algoritmos feitos nesse repositorio são exercicíos praticos, alguns simples outros desafiadores, feitos em Python.
