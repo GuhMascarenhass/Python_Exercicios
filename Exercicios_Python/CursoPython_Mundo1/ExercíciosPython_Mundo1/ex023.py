@@ -1,0 +1,6 @@
+frase = str(input('').strip())
+frase2 = frase.upper()
+na = frase2.count('A')
+p = frase.find('a')
+ua = frase.rfind('a')
+print(na, p, ua)
